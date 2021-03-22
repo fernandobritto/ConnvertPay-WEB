@@ -1,25 +1,7 @@
 # ConnvertPay WEB
 
-> ### Este é um website desenvolvido em Next.js para controle e registro de dividas de clientes.
+> ### Este é um website desenvolvido em React.js para controle e registro de dividas de clientes.
 
-&nbsp;&nbsp;&nbsp;
-
-## 🛠 Tecnologia
-
-Principais ferramentas utilizadas neste projeto:
-
-- [Next.js][nextjs]
-- [Typescript][typescript]
-- [Styled Components][styled-components]
-
-
-
-[nextjs]: https://nextjs.org/
-[typescript]: https://www.typescriptlang.org/
-[styled-components]: https://styled-components.com/
-
-
-[license]: https://opensource.org/licenses/MIT
 
 
 &nbsp;&nbsp;
@@ -38,7 +20,7 @@ cd ConnvertPay-WEB
 yarn install
 
 # execute o projeto com o comando
-yarn dev
+yarn start
 ```
 &nbsp;&nbsp;&nbsp;
 
